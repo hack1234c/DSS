@@ -1,0 +1,3 @@
+_G.Key = "1960321895" 
+_G.AuthServer = "" 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
